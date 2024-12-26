@@ -80,7 +80,7 @@ Steps
 
 Clone the repository:
 
-git clone https://github.com/yourusername/benchy.git
+git clone https://github.com/themaden/benchy.git
 cd benchy
 
 Install dependencies:
